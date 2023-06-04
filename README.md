@@ -1,1 +1,1 @@
-# accident_detection
+This system is an accelerometer-based bike accident detection system capable of detecting any bike accident and sending an SMS to the emergency contact number containing the real-time location and physiological activity of the victim.
